@@ -1,9 +1,0 @@
-carrot
-beans
-potato
-spinach
-brocolli
-
-capsicum
-beetroot
-pumpkin
